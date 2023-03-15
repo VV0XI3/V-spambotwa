@@ -24,7 +24,7 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 
 - **Clone repository**
 ```bash
-git clone https://github.com/VV0XI3/V-spambotwa
+git clone https://github.com/VV0XI3/V-spambotwa.git
 ```
 - **Masuk kedalam directory**
 ```sh
